@@ -12,6 +12,10 @@ O relógio digital desenvolvido neste projeto tem como finalidade:
 - **Estilo Moderno**: Através de um design minimalista e futurista, o relógio é projetado para se integrar bem em qualquer layout de página web.
 - **Responsividade**: O design é adaptável a diferentes tamanhos de tela, proporcionando uma boa experiência de usuário em dispositivos móveis e desktop.
 
+## Link do Projeto
+
+Você pode visualizar o projeto ao vivo através do seguinte link: [Relógio Digital](https://relogio-digital-seven-amber.vercel.app)
+
 ## Tecnologias Utilizadas
 
 - HTML
